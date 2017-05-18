@@ -5,3 +5,5 @@ The objective of this project is to build a model that can take a sentence with 
 All of the books that I used for training can be found in books.zip.
 
 To view my work most easily, see the .ipynb file.
+
+I wrote an [article](https://medium.com/@Currie32/creating-a-spell-checker-with-tensorflow-d35b23939f60) that explains how to create the input data (the sentences with spelling mistakes) for this model.
